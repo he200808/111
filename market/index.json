@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "title": {
+    "en": "HE200808 plugins",
+    "zh": "HE200808 插件"
+  },
+  "description": {
+    "en": "A small personal DSH plugin market.",
+    "zh": "个人的 DSH 插件小市场。"
+  },
+  "metadata": {
+    "categories": {
+      "ui": {
+        "title": { "en": "Interface", "zh": "界面" }
+      }
+    },
+    "labels": {
+      "settings": {
+        "title": { "en": "Settings page", "zh": "设置页" }
+      }
+    },
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-plugin-social-preview",
+      "title": {
+        "en": "Social Preview",
+        "zh": "社交预览"
+      },
+      "description": {
+        "en": "Uploads an image, checks the 640x320 minimum and previews the 2:1 social card.",
+        "zh": "上传图片、校验 640×320 下限，并预览 2:1 的社交卡片。"
+      },
+      "author": "HE200808",
+      "repository": {
+        "url": "https://github.com/he200808/111"
+      },
+      "metadata": {
+        "category": "ui",
+        "keywords": ["dsh", "deepseek-harness", "social-preview", "settings"],
+        "labels": ["settings"],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1793323200,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/he200808/111.git",
+            "commit": "06fd8ef646cd5003c49948aa7122f47e4ecfa5c0"
+          },
+          "engines": {}
+        }
+      ]
+    }
+  ]
+}
