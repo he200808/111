@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "社交预览",
+    "description": "上传图片、校验尺寸并预览社交卡片。"
+  },
+  "nav": "社交预览",
+  "title": "社交预览",
+  "intro": "上传一张图片，用于该工作区被分享为链接时的展示。图片应至少为 640 × 320px（最佳显示为 1280 × 640px）。",
+  "preview": "预览效果",
+  "dropTitle": "点击上传，或把图片拖到这里",
+  "dropHint": "支持 PNG、JPG、WebP",
+  "upload": "上传图片",
+  "replace": "更换图片",
+  "remove": "移除",
+  "download": "下载模板",
+  "empty": "还没有图片",
+  "dims": "{w} × {h} · {size}",
+  "ok": "尺寸符合最佳要求",
+  "warn": "尺寸可用，建议使用 1280 × 640",
+  "tooSmall": "图片至少需要 640 × 320，当前为 {w} × {h}",
+  "errorType": "仅支持 PNG、JPG、WebP 图片",
+  "errorRead": "无法读取这张图片",
+  "errorStorage": "图片体积过大，无法保存到本地，仅本次会话有效",
+  "templateTitle": "社交预览",
+  "templateSubtitle": "把这段文字换成你自己的画面"
+}

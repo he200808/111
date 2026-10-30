@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Social Preview",
+    "description": "Uploads an image, checks its size and previews the social card."
+  },
+  "nav": "Social preview",
+  "title": "Social preview",
+  "intro": "Upload an image to use when this workspace is shared as a link. Images should be at least 640 × 320px (best displayed at 1280 × 640px).",
+  "preview": "Preview",
+  "dropTitle": "Click to upload, or drag an image here",
+  "dropHint": "PNG, JPG or WebP",
+  "upload": "Upload image",
+  "replace": "Replace image",
+  "remove": "Remove",
+  "download": "Download template",
+  "empty": "No image yet",
+  "dims": "{w} × {h} · {size}",
+  "ok": "Meets the recommended size",
+  "warn": "Usable, but 1280 × 640 is recommended",
+  "tooSmall": "At least 640 × 320 is required — this image is {w} × {h}",
+  "errorType": "Only PNG, JPG and WebP images are supported",
+  "errorRead": "This image could not be read",
+  "errorStorage": "The image is too large to save locally, so it only lasts for this session",
+  "templateTitle": "Social preview",
+  "templateSubtitle": "Replace this text with your own artwork"
+}
